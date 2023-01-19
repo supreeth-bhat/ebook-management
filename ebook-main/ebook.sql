@@ -142,8 +142,8 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`username`, `email`, `phone`, `pswd`, `id`) VALUES
 ('admin', 'admin@ebook.com', '6969696969', 'admin', 1),
-('anmol', 'anmolrk096322@gmail.com', '7892539801', 'anmol', 2),
-('amogh', 'amogh@gmai;.com', '9999999999', 'amogh', 3),
+('Suman S Shetty', 'suman.2002shetty@gmail.com', '6363453801', 'suman', 2),
+('Supreeth L Bhat', 'supreethbhat06@gmail.com', '9945410515', 'supreeth', 3),
 ('darshan', 'darshan@gmail.com', '9878987788', 'darshan', 6);
 
 --
