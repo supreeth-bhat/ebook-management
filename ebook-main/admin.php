@@ -158,7 +158,7 @@ error_reporting(0);
 
         ?>
        
-        <a href="addbook.php" class="mainbtn">Add book</a>
+        <a href="addbook details.php" class="mainbtn">Add book</a>
         <a href="removebook.php" class="mainbtn">Remove Books</a>  
         <a href="allbooks.php" class="mainbtn">Show all books</a>
         
